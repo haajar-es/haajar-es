@@ -65,12 +65,11 @@ _**Including but not limited to:**_
 - Business Intelligence & Data Analyst (BIDA) (Corporate Finance Institute (CFI))
 
 ## 🌱 Currently Growing: 
-- Exploring advanced analytics, machine learning applications in finance
-- AI-driven features in Power BI for predictive analytics
-- Diving deeper into cloud-based data solutions
-- Grinding book:
-  [Extending Power BI with Python and R: Perform advanced analysis using the power of analytical languages](https://www.amazon.com/Extending-Power-Python-analytical-languages-ebook/dp/B0C5RFZJKN/ref=sr_1_35?crid=1YHHMJEP4NA89&dib=eyJ2IjoiMSJ9.3nXw_tzm9XUlbhyKJVuodJmwnMcnNlB-bafnfLecz9DGjHj071QN20LucGBJIEps.5CLd9WCjovEdBb8ew9YDhFcaWIduAD5570gYD5qFdwk&dib_tag=se&keywords=power+bi&qid=1723294142&s=digital-text&sprefix=power+b%2Cdigital-text%2C351&sr=1-35)
-
+- Diving deeper into:
+  - Advanced analytics, machine learning applications in finance
+  - AI-driven features in Power BI for predictive analytics; grinding [Extending Power BI with Python and R: Perform advanced analysis using the power of analytical languages](https://www.amazon.com/Extending-Power-Python-analytical-languages-ebook/dp/B0C5RFZJKN/ref=sr_1_35?crid=1YHHMJEP4NA89&dib=eyJ2IjoiMSJ9.3nXw_tzm9XUlbhyKJVuodJmwnMcnNlB-bafnfLecz9DGjHj071QN20LucGBJIEps.5CLd9WCjovEdBb8ew9YDhFcaWIduAD5570gYD5qFdwk&dib_tag=se&keywords=power+bi&qid=1723294142&s=digital-text&sprefix=power+b%2Cdigital-text%2C351&sr=1-35)
+  - Cloud-based data solutions
+- Exploring Modern Data Stack (dbt, Airbyte, Databricks)
 
 ## 💡 Did You Know?
 I once automated a process so efficiently, I had time to learn juggling during my lunch breaks. Still working on keeping all the balls in the air - both literally and in project management!
@@ -82,7 +81,7 @@ Always open to collaborating on projects that blend technology, data analytics a
 Cheers! ☕
 
 
-©️ 2024 Hajar | hajarsh.insight@gmail.com
+©️ 2024 Hajar | 📧 hajarsh.insight@gmail.com
 
 
 <!---
